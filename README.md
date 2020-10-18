@@ -1,4 +1,4 @@
-# Project_Analyze_The_Movie_Database_TMDB_Box_Office_Data_with_Plotly_and_Seaborn_and_Python
+# Project Analyze The Movie Database Box Office Data with Plotly and Seaborn
 Use Plotly Python and Seaborn during exploratory data analysis (EDA), feature engineering and data visualizations
  
 Task 1: Analyzing Movie Release Dates
